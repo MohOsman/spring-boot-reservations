@@ -1,2 +1,2 @@
 # spring-boot-reservations
-A simple Backend Applicaiton for handling room reservations  created with spring boot 
+A simple backend applicaiton for handling room reservations  created with spring boot 
